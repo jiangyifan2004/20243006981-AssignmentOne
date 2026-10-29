@@ -53,6 +53,7 @@
 
                 <ImageButton
                     android:id="@+id/button_facilities"
+                    android:onClick="facilitiesClicked"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
@@ -79,6 +80,7 @@
 
                 <ImageButton
                     android:id="@+id/button_events"
+                    android:onClick="eventsClicked"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
@@ -111,6 +113,7 @@
 
                 <ImageButton
                     android:id="@+id/button_clubs"
+                    android:onClick="clubsClicked"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
@@ -137,6 +140,7 @@
 
                 <ImageButton
                     android:id="@+id/button_support"
+                    android:onClick="supportClicked"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
