@@ -1,0 +1,12 @@
+# Local settings and generated files are not part of the submission.
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
