@@ -6,10 +6,4 @@
     <string name="events">Events</string>
     <string name="clubs">Clubs</string>
     <string name="support">Support</string>
-    <string name="facilities_clicked">Facilities clicked</string>
-    <string name="events_clicked">Events clicked</string>
-    <string name="clubs_clicked">Clubs clicked</string>
-    <string name="support_clicked">Support clicked</string>
-    <string name="placeholder_title">This is a title</string>
-    <string name="placeholder_content">This is content</string>
 </resources>
